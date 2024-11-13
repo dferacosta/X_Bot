@@ -1,40 +1,36 @@
-Privacy Policy
+Terms of Service
 
 Last updated: 11/13/2024
 
-1. Information We Collect
-To operate, the Application may collect the following information:
+1. Acceptance of Terms
+By using our application (“the Application”), you agree to these Terms of Service. If you do not agree with these terms, you must not use the Application.
 
-Twitter Account Information: We need access to your Twitter access tokens and, in some cases, your username and other public profile information.
+2. Description of Service
+The Application allows users to rewrite tweets from a public Twitter account using natural language processing algorithms to generate alternative versions of those tweets. The rewritten tweets are posted to the user's Twitter account, with the user assuming full responsibility for the posted content.
 
-Usage Data: We collect usage information o improve the Application’s functionality.
+3. Use of the Application
+The Application is provided solely for personal and non-commercial use. By using the Application, you agree to:
 
-2. How We Use Your Information
-The information we collect is used exclusively for the operation of the Application, including:
+Not use the Application for any illegal or unauthorized purpose under local or international law.
 
-Rewriting and posting tweets to your Twitter account with your authorization.
+Not violate third-party intellectual property rights, including the copyright of original tweets.
 
-Providing technical support and improving the service.
+Abide by Twitter’s Terms of Service and policies.
 
-3. Information Storage
-We store access information for your Twitter account in an encrypted format and retain it only as long as necessary to provide the service. If you decide to delete the Application, we will securely delete your access information from our systems.
+Avoid using the Application for spam activities or impersonation of others.
 
-4. Information Sharing
-We do not share your personal information with third parties, except:
+4. Privacy
+By using the Application, you may be providing certain data, such as your Twitter username and authentication data. This data will be managed according to our Privacy Policy, as outlined above.
 
-When necessary to comply with laws or regulations.
+5. Intellectual Property
+The technology used for tweet rewriting is the property of the Application or its service providers. All rights reserved. You do not acquire any ownership rights over the technology or text processing methods used by the Application.
 
-When necessary to provide the service, with third-party service providers acting on our behalf and maintaining adequate security measures.
+6. Limitation of Liability
+The Application is provided “as-is” without guarantees of accuracy or uninterrupted functionality. We are not responsible for:
 
-5. Information Security
-We implement technical and organizational security measures to protect your data against unauthorized access or undue alterations.
+Damages or losses arising from the use or misuse of the Application.
 
-6. User Rights
-You may:
+Penalties imposed by Twitter or any other platform due to violations of their terms.
 
-Revoke the Application’s access to your Twitter account at any time from your Twitter account settings.
-
-Contact us to request the deletion of your data.
-
-7. Changes to the Privacy Policy
-We reserve the right to update this Privacy Policy. We will notify you of any significant changes to this Policy through a notice in the Application.
+7. Modifications to Terms
+We reserve the right to modify these Terms at any time. We will notify you of any significant changes through a notice in the Application or by email
