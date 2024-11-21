@@ -1,2 +1,1 @@
 worker: python x_bot.py
-web: python x_bot.py
