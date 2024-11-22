@@ -1,1 +1,1 @@
-worker: python x_bot.py
+worker: python X_Bot.py
